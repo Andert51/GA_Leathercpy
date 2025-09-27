@@ -187,13 +187,13 @@ def main():
             if not check_function():
                 all_passed = False
         except Exception as e:
-            print(f"❌ Error en {check_name}: {str(e)}")
+            print(f" Error en {check_name}: {str(e)}")
             all_passed = False
     
     print("\n" + "=" * 70)
     
     if all_passed:
-        print("🎉 TODAS LAS VERIFICACIONES PASARON EXITOSAMENTE")
+        print(" TODAS LAS VERIFICACIONES PASARON EXITOSAMENTE")
         print(" El sistema está listo para ejecutar el algoritmo genético")
         print("\nPara ejecutar:")
         print("  - Windows: Doble clic en 'run_genetic_algorithm.bat'")
