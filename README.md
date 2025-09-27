@@ -1,12 +1,11 @@
 # Optimización de Cortes Circulares en Piel de Carnero Mediante Algoritmos Genéticos
 
 **Proyecto de Inteligencia Artificial - Algoritmos Genéticos**  
-**Fecha:** Septiembre 2025  
-**Repositorio:** Min_Max-EquationCalculator-GA
+**Fecha:** 29 Septiembre 2025  
 
 ---
 
-## Resumen Ejecutivo
+## Resumen 
 
 Este proyecto implementa un **Algoritmo Genético (AG)** para resolver el problema de optimización de cortes circulares en piel de carnero, maximizando el número de círculos que se pueden obtener sin solapamiento. El sistema procesa automáticamente imágenes de piel, realiza umbralización binaria, y encuentra la disposición óptima de círculos de diámetros específicos (20 cm y 25 cm). Los resultados incluyen posiciones exactas, visualizaciones gráficas, y análisis comparativo de eficiencia.
 
@@ -18,7 +17,7 @@ Este proyecto implementa un **Algoritmo Genético (AG)** para resolver el proble
 
 ---
 
-## 1. Introducción (Introduction)
+## 1. Introducción 
 
 ### 1.1 Planteamiento del Problema
 
@@ -58,7 +57,7 @@ Problema geométrico que busca empacar círculos en un espacio limitado maximiza
 
 ---
 
-## 2. Metodología (Methods)
+## 2. Metodología 
 
 ### 2.1 Arquitectura del Sistema
 
@@ -267,7 +266,7 @@ def mutate(self, individual):
 
 ---
 
-## 3. Resultados (Results)
+## 3. Resultados 
 
 ### 3.1 Análisis de la Imagen de Entrada
 
@@ -418,7 +417,7 @@ results/
 
 ---
 
-## 4. Discusión (Discussion)
+## 4. Discusión 
 
 ### 4.1 Interpretación de Resultados
 
