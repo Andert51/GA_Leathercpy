@@ -32,9 +32,9 @@ def run_quick_test():
             image_path=image_path,
             circle_diameter_cm=20.0,
             pixels_per_cm=5.0,
-            population_size=20,      # MUY reducido para prueba ultra-rápida
-            generations=30,          # MUY reducido para prueba ultra-rápida
-            mutation_rate=0.2,       # Aumentado para más exploración rápida
+            population_size=20,      # MUY reducido para rendimiento
+            generations=30,          # MUY reducido para prueba y rendimiento
+            mutation_rate=0.2,       # Aumentado para más exploracion
             crossover_rate=0.8,
             elite_size=3
         )
@@ -125,7 +125,7 @@ def interactive_menu():
             return False
 
 if __name__ == "__main__":
-    # Cambiar al directorio src si no estamos ahí
+    # Cambiar al directorio src si no ese esta ahi
     current_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(current_dir)
     
