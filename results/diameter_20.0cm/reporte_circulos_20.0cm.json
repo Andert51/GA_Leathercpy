@@ -1,0 +1,198 @@
+{
+  "parametros": {
+    "diametro_circulo_cm": 20.0,
+    "radio_circulo_cm": 10.0,
+    "pixels_por_cm": 5.0,
+    "generaciones": 100,
+    "tamano_poblacion": 50
+  },
+  "resultados": {
+    "num_circulos_obtenidos": 25,
+    "area_por_circulo_cm2": 314.16,
+    "area_total_utilizada_cm2": 7853.98,
+    "area_piel_disponible_cm2": 17012.6,
+    "eficiencia_uso_porcentaje": 46.17,
+    "fitness_final": 25
+  },
+  "posiciones_circulos": [
+    {
+      "Círculo": 1,
+      "Centro_X_px": 648,
+      "Centro_Y_px": 312,
+      "Centro_X_cm": 129.6,
+      "Centro_Y_cm": 62.4
+    },
+    {
+      "Círculo": 2,
+      "Centro_X_px": 492,
+      "Centro_Y_px": 492,
+      "Centro_X_cm": 98.4,
+      "Centro_Y_cm": 98.4
+    },
+    {
+      "Círculo": 3,
+      "Centro_X_px": 432,
+      "Centro_Y_px": 252,
+      "Centro_X_cm": 86.4,
+      "Centro_Y_cm": 50.4
+    },
+    {
+      "Círculo": 4,
+      "Centro_X_px": 492,
+      "Centro_Y_px": 708,
+      "Centro_X_cm": 98.4,
+      "Centro_Y_cm": 141.6
+    },
+    {
+      "Círculo": 5,
+      "Centro_X_px": 252,
+      "Centro_Y_px": 456,
+      "Centro_X_cm": 50.4,
+      "Centro_Y_cm": 91.2
+    },
+    {
+      "Círculo": 6,
+      "Centro_X_px": 264,
+      "Centro_Y_px": 756,
+      "Centro_X_cm": 52.8,
+      "Centro_Y_cm": 151.2
+    },
+    {
+      "Círculo": 7,
+      "Centro_X_px": 600,
+      "Centro_Y_px": 720,
+      "Centro_X_cm": 120.0,
+      "Centro_Y_cm": 144.0
+    },
+    {
+      "Círculo": 8,
+      "Centro_X_px": 384,
+      "Centro_Y_px": 708,
+      "Centro_X_cm": 76.8,
+      "Centro_Y_cm": 141.6
+    },
+    {
+      "Círculo": 9,
+      "Centro_X_px": 420,
+      "Centro_Y_px": 396,
+      "Centro_X_cm": 84.0,
+      "Centro_Y_cm": 79.2
+    },
+    {
+      "Círculo": 10,
+      "Centro_X_px": 696,
+      "Centro_Y_px": 216,
+      "Centro_X_cm": 139.2,
+      "Centro_Y_cm": 43.2
+    },
+    {
+      "Círculo": 11,
+      "Centro_X_px": 336,
+      "Centro_Y_px": 288,
+      "Centro_X_cm": 67.2,
+      "Centro_Y_cm": 57.6
+    },
+    {
+      "Círculo": 12,
+      "Centro_X_px": 660,
+      "Centro_Y_px": 576,
+      "Centro_X_cm": 132.0,
+      "Centro_Y_cm": 115.2
+    },
+    {
+      "Círculo": 13,
+      "Centro_X_px": 720,
+      "Centro_Y_px": 396,
+      "Centro_X_cm": 144.0,
+      "Centro_Y_cm": 79.2
+    },
+    {
+      "Círculo": 14,
+      "Centro_X_px": 348,
+      "Centro_Y_px": 516,
+      "Centro_X_cm": 69.6,
+      "Centro_Y_cm": 103.2
+    },
+    {
+      "Círculo": 15,
+      "Centro_X_px": 360,
+      "Centro_Y_px": 180,
+      "Centro_X_cm": 72.0,
+      "Centro_Y_cm": 36.0
+    },
+    {
+      "Círculo": 16,
+      "Centro_X_px": 624,
+      "Centro_Y_px": 480,
+      "Centro_X_cm": 124.8,
+      "Centro_Y_cm": 96.0
+    },
+    {
+      "Círculo": 17,
+      "Centro_X_px": 564,
+      "Centro_Y_px": 396,
+      "Centro_X_cm": 112.8,
+      "Centro_Y_cm": 79.2
+    },
+    {
+      "Círculo": 18,
+      "Centro_X_px": 792,
+      "Centro_Y_px": 516,
+      "Centro_X_cm": 158.4,
+      "Centro_Y_cm": 103.2
+    },
+    {
+      "Círculo": 19,
+      "Centro_X_px": 300,
+      "Centro_Y_px": 624,
+      "Centro_X_cm": 60.0,
+      "Centro_Y_cm": 124.8
+    },
+    {
+      "Círculo": 20,
+      "Centro_X_px": 744,
+      "Centro_Y_px": 792,
+      "Centro_X_cm": 148.8,
+      "Centro_Y_cm": 158.4
+    },
+    {
+      "Círculo": 21,
+      "Centro_X_px": 552,
+      "Centro_Y_px": 600,
+      "Centro_X_cm": 110.4,
+      "Centro_Y_cm": 120.0
+    },
+    {
+      "Círculo": 22,
+      "Centro_X_px": 708,
+      "Centro_Y_px": 672,
+      "Centro_X_cm": 141.6,
+      "Centro_Y_cm": 134.4
+    },
+    {
+      "Círculo": 23,
+      "Centro_X_px": 564,
+      "Centro_Y_px": 240,
+      "Centro_X_cm": 112.8,
+      "Centro_Y_cm": 48.0
+    },
+    {
+      "Círculo": 24,
+      "Centro_X_px": 432,
+      "Centro_Y_px": 588,
+      "Centro_X_cm": 86.4,
+      "Centro_Y_cm": 117.6
+    },
+    {
+      "Círculo": 25,
+      "Centro_X_px": 492,
+      "Centro_Y_px": 144,
+      "Centro_X_cm": 98.4,
+      "Centro_Y_cm": 28.8
+    }
+  ],
+  "estadisticas_ga": {
+    "mejor_fitness_final": 25.2,
+    "convergencia": 50
+  }
+}

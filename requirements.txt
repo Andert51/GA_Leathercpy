@@ -1,0 +1,19 @@
+# Algoritmo Genético para Optimización de Cortes Circulares
+# Dependencias de Python requeridas
+
+# Procesamiento de imágenes
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Computación científica y análisis de datos
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilidades adicionales
+tqdm>=4.65.0  # Barras de progreso
+scikit-image>=0.20.0  # Procesamiento adicional de imágenes

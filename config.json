@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "name": "Optimización de Cortes Circulares en Piel de Carnero",
+    "version": "1.0.0",
+    "author": "Algoritmos Genéticos - IA",
+    "description": "Algoritmo Genético para optimizar el corte de círculos en piel de carnero"
+  },
+  
+  "image_settings": {
+    "input_image": "resources/images/piel_carnero.png",
+    "pixels_per_cm": 5.0,
+    "comment": "5 píxeles equivalen a 1 cm en la realidad"
+  },
+  
+  "circle_diameters": {
+    "diameters_cm": [20.0, 25.0],
+    "comment": "Lista de diámetros a probar en centímetros"
+  },
+  
+  "genetic_algorithm": {
+    "population_size": 150,
+    "generations": 300,
+    "mutation_rate": 0.15,
+    "crossover_rate": 0.85,
+    "elite_size": 15,
+    "tournament_size": 3
+  },
+  
+  "quick_test": {
+    "population_size": 50,
+    "generations": 100,
+    "comment": "Parámetros reducidos para pruebas rápidas"
+  },
+  
+  "output_settings": {
+    "base_output_dir": "results",
+    "save_visualization": true,
+    "save_csv_reports": true,
+    "save_json_reports": true,
+    "image_dpi": 300
+  },
+  
+  "advanced_settings": {
+    "max_circles_per_individual": 50,
+    "max_placement_attempts": 10,
+    "distance_bonus_weight": 0.5,
+    "convergence_patience": 50,
+    "comment": "Configuraciones avanzadas del algoritmo"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "parametros": {
+    "diametro_circulo_cm": 20.0,
+    "radio_circulo_cm": 10.0,
+    "pixels_por_cm": 5.0,
+    "generaciones": 30,
+    "tamano_poblacion": 20
+  },
+  "resultados": {
+    "num_circulos_obtenidos": 24,
+    "area_por_circulo_cm2": 314.16,
+    "area_total_utilizada_cm2": 7539.82,
+    "area_piel_disponible_cm2": 17012.6,
+    "eficiencia_uso_porcentaje": 44.32,
+    "fitness_final": 24
+  },
+  "posiciones_circulos": [
+    {
+      "Círculo": 1,
+      "Centro_X_px": 696,
+      "Centro_Y_px": 648,
+      "Centro_X_cm": 139.2,
+      "Centro_Y_cm": 129.6
+    },
+    {
+      "Círculo": 2,
+      "Centro_X_px": 780,
+      "Centro_Y_px": 480,
+      "Centro_X_cm": 156.0,
+      "Centro_Y_cm": 96.0
+    },
+    {
+      "Círculo": 3,
+      "Centro_X_px": 600,
+      "Centro_Y_px": 420,
+      "Centro_X_cm": 120.0,
+      "Centro_Y_cm": 84.0
+    },
+    {
+      "Círculo": 4,
+      "Centro_X_px": 456,
+      "Centro_Y_px": 276,
+      "Centro_X_cm": 91.2,
+      "Centro_Y_cm": 55.2
+    },
+    {
+      "Círculo": 5,
+      "Centro_X_px": 492,
+      "Centro_Y_px": 396,
+      "Centro_X_cm": 98.4,
+      "Centro_Y_cm": 79.2
+    },
+    {
+      "Círculo": 6,
+      "Centro_X_px": 516,
+      "Centro_Y_px": 132,
+      "Centro_X_cm": 103.2,
+      "Centro_Y_cm": 26.4
+    },
+    {
+      "Círculo": 7,
+      "Centro_X_px": 348,
+      "Centro_Y_px": 180,
+      "Centro_X_cm": 69.6,
+      "Centro_Y_cm": 36.0
+    },
+    {
+      "Círculo": 8,
+      "Centro_X_px": 588,
+      "Centro_Y_px": 624,
+      "Centro_X_cm": 117.6,
+      "Centro_Y_cm": 124.8
+    },
+    {
+      "Círculo": 9,
+      "Centro_X_px": 576,
+      "Centro_Y_px": 312,
+      "Centro_X_cm": 115.2,
+      "Centro_Y_cm": 62.4
+    },
+    {
+      "Círculo": 10,
+      "Centro_X_px": 684,
+      "Centro_Y_px": 360,
+      "Centro_X_cm": 136.8,
+      "Centro_Y_cm": 72.0
+    },
+    {
+      "Círculo": 11,
+      "Centro_X_px": 372,
+      "Centro_Y_px": 336,
+      "Centro_X_cm": 74.4,
+      "Centro_Y_cm": 67.2
+    },
+    {
+      "Círculo": 12,
+      "Centro_X_px": 384,
+      "Centro_Y_px": 744,
+      "Centro_X_cm": 76.8,
+      "Centro_Y_cm": 148.8
+    },
+    {
+      "Círculo": 13,
+      "Centro_X_px": 492,
+      "Centro_Y_px": 684,
+      "Centro_X_cm": 98.4,
+      "Centro_Y_cm": 136.8
+    },
+    {
+      "Círculo": 14,
+      "Centro_X_px": 792,
+      "Centro_Y_px": 588,
+      "Centro_X_cm": 158.4,
+      "Centro_Y_cm": 117.6
+    },
+    {
+      "Círculo": 15,
+      "Centro_X_px": 288,
+      "Centro_Y_px": 624,
+      "Centro_X_cm": 57.6,
+      "Centro_Y_cm": 124.8
+    },
+    {
+      "Círculo": 16,
+      "Centro_X_px": 432,
+      "Centro_Y_px": 552,
+      "Centro_X_cm": 86.4,
+      "Centro_Y_cm": 110.4
+    },
+    {
+      "Círculo": 17,
+      "Centro_X_px": 276,
+      "Centro_Y_px": 396,
+      "Centro_X_cm": 55.2,
+      "Centro_Y_cm": 79.2
+    },
+    {
+      "Círculo": 18,
+      "Centro_X_px": 636,
+      "Centro_Y_px": 732,
+      "Centro_X_cm": 127.2,
+      "Centro_Y_cm": 146.4
+    },
+    {
+      "Círculo": 19,
+      "Centro_X_px": 372,
+      "Centro_Y_px": 468,
+      "Centro_X_cm": 74.4,
+      "Centro_Y_cm": 93.6
+    },
+    {
+      "Círculo": 20,
+      "Centro_X_px": 636,
+      "Centro_Y_px": 528,
+      "Centro_X_cm": 127.2,
+      "Centro_Y_cm": 105.6
+    },
+    {
+      "Círculo": 21,
+      "Centro_X_px": 708,
+      "Centro_Y_px": 240,
+      "Centro_X_cm": 141.6,
+      "Centro_Y_cm": 48.0
+    },
+    {
+      "Círculo": 22,
+      "Centro_X_px": 756,
+      "Centro_Y_px": 780,
+      "Centro_X_cm": 151.2,
+      "Centro_Y_cm": 156.0
+    },
+    {
+      "Círculo": 23,
+      "Centro_X_px": 528,
+      "Centro_Y_px": 516,
+      "Centro_X_cm": 105.6,
+      "Centro_Y_cm": 103.2
+    },
+    {
+      "Círculo": 24,
+      "Centro_X_px": 264,
+      "Centro_Y_px": 732,
+      "Centro_X_cm": 52.8,
+      "Centro_Y_cm": 146.4
+    }
+  ],
+  "estadisticas_ga": {
+    "mejor_fitness_final": 24.2,
+    "convergencia": 0
+  }
+}

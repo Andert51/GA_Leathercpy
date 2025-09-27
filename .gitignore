@@ -1,0 +1,29 @@
+# Compiled binaries and executables
+bin/
+*.exe
+
+# Build artifacts
+build/
+*.o
+*.obj
+
+# Visual Studio files
+*.vcxproj.user
+*.sln.docstates
+Debug/
+Release/
+x64/
+x86/
+
+# IDE files
+.vs/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
