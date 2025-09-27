@@ -4,6 +4,7 @@
 **Fecha:** 29 Septiembre 2025  
 
 ---
+**Para mayor comprensión y detalles técnicos/teóricos del programa revisar la documentación completa en /docs/**
 
 ## Resumen 
 
