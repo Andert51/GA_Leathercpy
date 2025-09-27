@@ -6,8 +6,7 @@ Este programa utiliza algoritmos genéticos para encontrar la mejor disposición
 de cortes circulares en una piel de carnero, maximizando el número de círculos
 que se pueden obtener sin solapamiento.
 
-Autor: [Su nombre]
-Fecha: Septiembre 2025
+-Inteligencia Artificial-
 """
 
 import numpy as np
